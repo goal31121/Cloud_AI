@@ -1,3 +1,5 @@
+#this is a console_chat.py
+
 import os
 from claude_api import Client
 
